@@ -37,4 +37,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: KMCK-APK
-          path: source/KMCK-Android-v0.2/app/build/outputs/apk/debug/app-debug.apk
+          path: source/KMCK-Android-v0.2/app/build/outputs/apk/debug/app-debug.apk 
